@@ -1,0 +1,6 @@
+.vscode
+bin
+test
+SDL2
+SDL2_ttf.dll
+main.exe
